@@ -2,6 +2,7 @@
 // @name         Hue attack
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @description Change philips hue lights after an attack on grepolis
 // @match		https://*.grepolis.com/game/*
 // @match		https://*.forum.grepolis.com/*
 // @grant        none
